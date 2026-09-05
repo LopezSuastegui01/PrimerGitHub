@@ -4,7 +4,7 @@ int main(void) {
     printf("================================\n");
 printf("HOLA, GITHUB! \n");
 printf("================================ \n");
-printf("Mi nombre es: Fatima Guadalupe \n");
+printf("Mi nombre es: Fatima Guadalupe Lopez Suastegui \n");
 printf("Estoy aprendiendo programacion.\n");
 printf("Este es mi primer programa\n");
 printf("publicado en GitHub.\n");
